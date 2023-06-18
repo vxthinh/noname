@@ -6,7 +6,7 @@ This project was bootstrapped with Vite
 
 In the project directory, you can run:
 
-### CD vite-project
+### cd vite-project
 
 ### yarn
 
